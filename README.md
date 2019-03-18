@@ -25,16 +25,16 @@ The first and only line of output should contain a number represent the minimum 
 
 
 Explanation
--
+===
 
-**Case 1:
-
+Case 1:
+---
 * The first and fourth pirate can go to the first reveal.
 * The third and the second pirate can go to a second reveal.
 * There is no way to fit all the pirates into one reveal.
 
-**Case 2:
-
+Case 2:
+---
 * Pirates 2, 6, and 7 can be in the first reveal.
 * Pirates 1, 5, and 8 can be in the second reveal.
 * Pirates 3 and 9 can be in the third reveal.
