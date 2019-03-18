@@ -22,7 +22,7 @@ Output Specification
 -
 The first and only line of output should contain a number represent the minimum number of meetings Luffus needs to prevent pirate disagreements.
 
-
+![alt text](https://github.com/trevinofernando/Greedy-Pirates/raw/master/img/example.png)
 
 Explanation
 ===
